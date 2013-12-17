@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cas-server:war exploded">
+    <output-path>$PROJECT_DIR$/cas-server/target/cas-server</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cas-server/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cas-server" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
