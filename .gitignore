@@ -7,4 +7,8 @@ target/*
 out/*
 .idea/
 web/WEB-INF/classes/
-cas.iml
+cas-demo.iml
+cas-client/target/*
+cas-server/target/*
+cas-server/overlays/*
+cas-client/overlays/*
